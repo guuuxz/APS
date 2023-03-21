@@ -1,2 +1,2 @@
 # APS
-Este é um repositório para APS de Desenvolvimento Web. 
+Este é um repositório para a APS de Desenvolvimento Web. 
