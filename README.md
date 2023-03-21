@@ -1,2 +1,2 @@
 # APS
-This repository is a web development activity
+Este é um repositório para APS de Desenvolvimento Web. 
